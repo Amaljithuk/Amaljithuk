@@ -92,10 +92,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://profile-summary-for-github.com/user/Amaljithuk"/>
-</p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaljithuk&theme=default&show_icons=true&hide_border=true&count_private=true)
+## 📌 GitHub Activity
+- Actively building AI, ML, and Full-Stack projects
+- Focus on real-world problem solving
+- Clean, documented, and scalable codebases
+
 
 
 
