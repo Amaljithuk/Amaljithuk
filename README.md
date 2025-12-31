@@ -93,7 +93,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaljithuk&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Amaljithuk&layout=compact&theme=tokyonight&hide_border=true](https://profile-summary-for-github.com/user/Amaljithuk)"/>
 </p>
 
 
