@@ -90,7 +90,6 @@
 
 ---
 
-## 📈 GitHub Stats
 
 ## 📌 GitHub Activity
 - Actively building AI, ML, and Full-Stack projects
